@@ -1,0 +1,18 @@
+#less_ctr_outer {
+    text-align:center;
+    border-radius: 25px;
+    max-width:600px;
+    background: rgba(138,192,7,0.5);
+}
+
+#lesson_ctr {
+    display: inline-block;
+}
+
+#next {
+    font-size: 8em;
+}
+
+#issue_area {
+    font-size: 1.25em;
+}

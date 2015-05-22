@@ -1,0 +1,54 @@
+== Changelog ==
+
+Theme Name: Golden Eagle Theme Lite
+===================================
+* Version 1.6
+***************************************
+1. Declared copyright in style.css
+2. Declared license/copyright for mobilemenu.js and frontend-effects.js
+3. wp_title issue fixed.
+4. stylesheet url issue fixed.
+5. Timthumb reference removed.
+6. extra function custom_trim_excerpt removed.
+7. Unused css removed.
+8. wp_reset_query issue fixed.
+9. readme.txt added.
+10.Screenshot issue fixed.
+
+* Version 1.5
+***************************************
+1. Additional Notice generated on the front end: getimagesize(): Read error! issue fixed.
+
+* Version 1.4
+***************************************
+1. Theme check warning fixed.
+2. Screenshot size issue fixed.
+3. PHP/scripts errors/notices issue fixed.
+4. Themes are required to use a unique prefix for all global variables and functions - in front-page.php issue fixed.
+5. Theme logo issue fixed.
+
+* Version 1.3
+***************************************
+1. Google Analytics code removed.
+2. Added plugins notification for recommends plugin.
+3. Theme url changed.
+4. All supporting function are hooked to after_setup_theme hook.
+5. All function exists wrapper removed.
+6. Option added for disable static front page.
+7. Removed unnecessary javascripts.
+8. Removed wp_enqueue_script('jquery');
+9. All url escaped.
+10.Default favicon removed.
+11.Hardcoded iframe on front page, removed.
+12.blog.php renamed to home.php.
+
+* Version 1.2
+***************************************
+1. Undefined index id error fixed.
+2. Removed @package WordPress text.
+3. Removed @subpackage Twenty_Eleven reference.
+4. Added functions prefix with theme slug.
+
+* Version 1.1
+***************************************
+1. Golden Eagle Theme is created on 1st July,2012.

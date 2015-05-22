@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pilot Fish 0.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-25 16:33+0800\n"
+"PO-Revision-Date: 2014-06-25 16:33+0800\n"
+"Last-Translator: Daniel Zhao <daniel@danielatwork.com>\n"
+"Language-Team: Daniel Zhao <daniel@danielatwork.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"_n_noop: 1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404 &#8212; Oops! Deadend Here..."
+msgstr "404 &#8212; お探しのページは見つかりませんでした。"
+
+#: 404.php:17
+msgid "You can return"
+msgstr " "
+
+#: 404.php:17
+msgid "&larr; Home"
+msgstr "ホームに戻る &larr;"
+
+#: 404.php:17
+msgid "or explore other pages and posts."
+msgstr "または他のページを検索してみてください。"
+
+#: archive-project.php:34 archive.php:49 index.php:25 page.php:80
+#: search.php:41 taxonomy-project_type.php:34 taxonomy-skills.php:34
+msgid "&larr; previous"
+msgstr "&larr; 前のページ"
+
+#: archive-project.php:35 archive.php:50 index.php:26 page.php:81
+#: search.php:42 taxonomy-project_type.php:35 taxonomy-skills.php:35
+msgid "next &rarr;"
+msgstr "次のページ &rarr;"
+
+#: archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr "投稿者別アーカイブ: %s"
+
+#: comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"この投稿はパスワードで保護されています。表示するには、パスワードを入力してく"
+"ださい。"
+
+#: comments.php:17
+msgid "No Response to"
+msgstr "コメント（0）"
+
+#: comments.php:17
+msgid "One Response to"
+msgstr "コメント（1）"
+
+#: comments.php:17
+msgid "% Responses to"
+msgstr "コメント（%）"
+
+#: comments.php:25
+msgid "&#8249; previous"
+msgstr "&#8249; 古いコメント"
+
+#: comments.php:26
+msgid "next &#8250;"
+msgstr "新しいコメント &#8250;"
+
+#: comments.php:38
+msgid "Name"
+msgstr "お名前"
+
+#: comments.php:39
+msgid "name (required)"
+msgstr "お名前(必須)"
+
+#: comments.php:40
+msgid "E-mail"
+msgstr "メールアドレス (非公開)"
+
+#: comments.php:41
+msgid "email (required)"
+msgstr "メールアドレス(必須)"
+
+#: comments.php:42
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: comments.php:43
+msgid "website"
+msgstr "ウェブサイト"
+
+#: content-aside.php:8 content-aside.php:37 content-gallery.php:8
+#: content-gallery.php:37 content-image.php:8 content-image.php:37
+#: content-link.php:20 content-link.php:49 content-quote.php:8
+#: content-quote.php:37 content-standard.php:8 content-standard.php:37
+#: content-status.php:8 content-status.php:38 image.php:44
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "%s へのパーマリンク"
+
+#: content-aside.php:10 content-gallery.php:10 content-image.php:10
+#: content-link.php:23 content-quote.php:10 content-standard.php:10
+#: content-status.php:11 image.php:23 page.php:19 single-project.php:17
+msgid "Continue Reading &rarr;"
+msgstr "続きを読む &rarr;"
+
+#: content-aside.php:16 content-gallery.php:16 content-image.php:16
+#: content-link.php:29 content-quote.php:16 content-standard.php:16
+#: content-status.php:17 single-project.php:23
+msgid "About"
+msgstr " "
+
+#: content-aside.php:22 content-gallery.php:22 content-image.php:22
+#: content-link.php:35 content-quote.php:22 content-standard.php:22
+#: content-status.php:23 image.php:24 page.php:20 single-project.php:29
+msgid "Pages:"
+msgstr "ページ"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "No Response &darr;"
+msgstr "コメントはまだありません &darr;"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "One Response &darr;"
+msgstr "コメント（1） &darr;"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "% Responses &darr;"
+msgstr "コメント（%） &darr;"
+
+#: content-aside.php:35 content-gallery.php:35 content-image.php:35
+#: content-link.php:47 content-quote.php:35 content-standard.php:35
+#: content-status.php:36 image.php:42
+msgid "TAGS:"
+msgstr "タグ:"
+
+#: content-aside.php:36 content-gallery.php:36 content-image.php:36
+#: content-link.php:48 content-quote.php:36 content-standard.php:36
+#: content-status.php:37 image.php:43
+#, php-format
+msgid "FILED UNDER: %s"
+msgstr "カテゴリー: %s"
+
+#: content-aside.php:37 content-gallery.php:37 content-image.php:37
+#: content-link.php:49 content-quote.php:37 content-standard.php:37
+#: content-status.php:38 image.php:44
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#: content-aside.php:40 content-gallery.php:40 content-image.php:40
+#: content-link.php:51 content-quote.php:40 content-standard.php:40
+#: content-status.php:40 page.php:71 single-project.php:47
+msgid "Edit"
+msgstr "編集"
+
+#: footer.php:22
+msgid "powered by"
+msgstr "powered by"
+
+#: footer.php:22
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+#: footer.php:23
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:23
+msgid "Theme by"
+msgstr "テーマの著者"
+
+#: footer.php:23
+msgid "http://danielatwork.com"
+msgstr "http://danielatwork.com"
+
+#: footer.php:24
+msgid "Daniel Zhao"
+msgstr "Daniel Zhao"
+
+#: footer.php:27
+msgid "Back to Top"
+msgstr "トップへ戻る"
+
+#: functions.php:26
+msgid "Primary Navigation"
+msgstr ""
+
+#: home.php:16
+msgid "Hello World!"
+msgstr "こんにちは！"
+
+#: home.php:18
+msgid "A Minimal, Responsive Portfolio Theme"
+msgstr ""
+"シンプルかつレスポンシブなWebデザインに対応する、WordPress専用のテーマです。"
+
+#: home.php:19
+msgid ""
+"You can edit this section from home.php in the Edit Panel. Happy Blogging! "
+msgstr ""
+"この度は『パイロットフィッシュ』をダウンロードいただきまして、誠にありがとう"
+"ございます。このセクションは『テーマ編集』パネルの『home.php』より編集可能で"
+"す。"
+
+#: home.php:22
+msgid "Featured Widgets Area"
+msgstr "Featured Widgets Area"
+
+#: image.php:18
+msgid "&larr; Return to"
+msgstr "&larr;"
+
+#: options.php:34
+msgid "Page Hierarchy"
+msgstr "ページの階層:"
+
+#: options.php:35
+msgid "Add Child Page links to Pages"
+msgstr ""
+
+#: options.php:43
+msgid "Featured Image"
+msgstr ""
+
+#: options.php:44
+msgid "Replace Landing Page Featured Image Bavarian Forest"
+msgstr ""
+
+#: options.php:51
+msgid "Activate favicon"
+msgstr ""
+
+#: options.php:52
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+
+#: options.php:60
+msgid "Upload favicon"
+msgstr ""
+
+#: options.php:61
+msgid "Upload favicon for your site"
+msgstr ""
+
+#: page.php:51
+msgid "Page Hierarchy:"
+msgstr "ページの階層:"
+
+#: search.php:14
+msgid "We found"
+msgstr "検索結果"
+
+#: search.php:19
+msgid " &#8211; "
+msgstr " &#8211; "
+
+#: search.php:21
+msgid "articles for "
+msgstr " "
+
+#: search.php:22
+msgid "<span class=\"post-search-terms\">"
+msgstr "<span class=\"post-search-terms\">"
+
+#: search.php:24
+msgid "</span><!-- end of .post-search-terms -->"
+msgstr "</span><!-- end of .post-search-terms -->"
+
+#: searchform.php:2
+msgid "search here &hellip;"
+msgstr "キーワードを入力 &hellip;"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "サイト内検索"
+
+#: sidebar-home.php:20
+msgid "featured one"
+msgstr ""
+
+#: sidebar-home.php:21
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"One area."
+msgstr ""
+
+#: sidebar-home.php:38
+msgid "featured two"
+msgstr ""
+
+#: sidebar-home.php:39
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"Two area."
+msgstr ""
+
+#: sidebar-home.php:54
+msgid "featured three"
+msgstr ""
+
+#: sidebar-home.php:55
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"Three area."
+msgstr ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"Three area."
+
+#: single-project.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> previous project"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の作品"
+
+#: single-project.php:54
+msgid "next project <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい作品 <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> previous post"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: single.php:24
+msgid "next post <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: taxonomy-project_type.php:14
+msgid "Project Type:"
+msgstr ""
+
+#: taxonomy-skills.php:14
+msgid "Project Skills:"
+msgstr ""
+
+#: includes/scripts.php:64
+msgid "Projects"
+msgstr "作品"
+
+#: includes/scripts.php:65
+msgid "Project"
+msgstr "作品"
+
+#: includes/scripts.php:94 includes/scripts.php:95
+msgid "Project Type"
+msgstr ""
+
+#: includes/scripts.php:96
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/scripts.php:97
+msgid "All Project Types"
+msgstr ""
+
+#: includes/scripts.php:98
+msgid "Parent Project Type"
+msgstr ""
+
+#: includes/scripts.php:99
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/scripts.php:100
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/scripts.php:101
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/scripts.php:102
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/scripts.php:103
+msgid "New Project Type"
+msgstr ""
+
+#: includes/scripts.php:117
+msgid "Skills"
+msgstr ""
+
+#: includes/scripts.php:118
+msgid "Skill"
+msgstr ""
+
+#: includes/scripts.php:119
+msgid "Search Skills"
+msgstr ""
+
+#: includes/scripts.php:120
+msgid "All Skills"
+msgstr ""
+
+#: includes/scripts.php:121
+msgid "Parent Skill"
+msgstr ""
+
+#: includes/scripts.php:122
+msgid "Parent Skill:"
+msgstr ""
+
+#: includes/scripts.php:123
+msgid "Edit Skill"
+msgstr ""
+
+#: includes/scripts.php:124
+msgid "Update Skill"
+msgstr ""
+
+#: includes/scripts.php:125
+msgid "Add New Skill"
+msgstr ""
+
+#: includes/scripts.php:126
+msgid "New Skill Name"
+msgstr ""
+
+#: includes/scripts.php:154
+msgid "Untitled"
+msgstr "無題"
+
+#: includes/scripts.php:182
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/template-tags.php:5
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s by %3$s"
+msgstr "<span class=\"%1$s\">投稿日時</span> %2$s 投稿者 %3$s"
+
+#: includes/widgets.php:6
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/widgets.php:14
+msgid "Footer One"
+msgstr "Footer One"
+
+#: includes/widgets.php:22
+msgid "Footer Two"
+msgstr "Footer Two"
+
+#: includes/widgets.php:30
+msgid "Footer Three"
+msgstr "Footer Three"
+
+#: includes/widgets.php:38
+msgid "Featured One"
+msgstr "Featured One"
+
+#: includes/widgets.php:46
+msgid "Featured Two"
+msgstr "Featured Two"
+
+#: includes/widgets.php:54
+msgid "Featured Three"
+msgstr "Featured Three"
+
+#: includes/widgets.php:70
+msgid "Use this widget to add a vCard"
+msgstr "Use this widget to add a vCard"
+
+#: includes/widgets.php:71
+msgid "pilotfish: vCard"
+msgstr "パイロットフィッシュ: 電子名刺"
+
+#: includes/widgets.php:98
+msgid "vCard"
+msgstr "電子名刺"
+
+#: includes/widgets.php:164
+msgid "Title (optional):"
+msgstr "タイトル"
+
+#: includes/widgets.php:168
+msgid "Street Address:"
+msgstr "住所:"
+
+#: includes/widgets.php:172
+msgid "City/Locality:"
+msgstr "市区町村:"
+
+#: includes/widgets.php:176
+msgid "State/Region:"
+msgstr "都道府県:"
+
+#: includes/widgets.php:180
+msgid "Zipcode/Postal Code:"
+msgstr "郵便番号:"
+
+#: includes/widgets.php:184
+msgid "Telephone:"
+msgstr "携帯番号:"
+
+#: includes/widgets.php:188
+msgid "Email:"
+msgstr "メールアドレス:"
+
+#: includes/options/includes/class-options-framework-admin.php:85
+#: includes/options/includes/class-options-framework-admin.php:86
+#: includes/options/includes/class-options-framework-admin.php:307
+msgid "Theme Options"
+msgstr ""
+
+#: includes/options/includes/class-options-framework-admin.php:174
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/options/includes/class-options-framework-admin.php:205
+msgid "Default options restored."
+msgstr ""
+
+#: includes/options/includes/class-options-framework-admin.php:259
+msgid "Options saved."
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:66
+#: includes/options/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:68
+#: includes/options/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""

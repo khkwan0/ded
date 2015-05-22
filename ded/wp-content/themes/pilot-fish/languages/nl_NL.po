@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pilot Fish 0.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-25 16:33+0800\n"
+"PO-Revision-Date: 2014-06-25 16:33+0800\n"
+"Last-Translator: Daniel Zhao <daniel@danielatwork.com>\n"
+"Language-Team: Daniel Zhao <daniel@danielatwork.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Generator: Poedit 1.5.7\n"
+"_n_noop: 1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404 &#8212; Oops! Deadend Here..."
+msgstr "404 &#8212; Oeps! Niets gevonden..."
+
+#: 404.php:17
+msgid "You can return"
+msgstr "Je kunt terug gaan"
+
+#: 404.php:17
+msgid "&larr; Home"
+msgstr "&larr; Home"
+
+#: 404.php:17
+msgid "or explore other pages and posts."
+msgstr "of andere paginas en posts ontdekken."
+
+#: archive-project.php:34 archive.php:49 index.php:25 page.php:80
+#: search.php:41 taxonomy-project_type.php:34 taxonomy-skills.php:34
+msgid "&larr; previous"
+msgstr "&larr; vorige"
+
+#: archive-project.php:35 archive.php:50 index.php:26 page.php:81
+#: search.php:42 taxonomy-project_type.php:35 taxonomy-skills.php:35
+msgid "next &rarr;"
+msgstr "volgende &rarr;"
+
+#: archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#: archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#: archive.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Auteur archief: %s"
+
+#: comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Deze post is beveiligd met een wachtwoord. Voer het wachtwoord in om toegang "
+"te krijgen."
+
+#: comments.php:17
+msgid "No Response to"
+msgstr "Geen reactie op"
+
+#: comments.php:17
+msgid "One Response to"
+msgstr "1 reactie op"
+
+#: comments.php:17
+msgid "% Responses to"
+msgstr "% reacties op"
+
+#: comments.php:25
+msgid "&#8249; previous"
+msgstr "&#8249; vorige"
+
+#: comments.php:26
+msgid "next &#8250;"
+msgstr "volgende &#8250;"
+
+#: comments.php:38
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:39
+msgid "name (required)"
+msgstr "naam (vereist)"
+
+#: comments.php:40
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:41
+msgid "email (required)"
+msgstr "e-mail (vereist)"
+
+#: comments.php:42
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:43
+msgid "website"
+msgstr "website"
+
+#: content-aside.php:8 content-aside.php:37 content-gallery.php:8
+#: content-gallery.php:37 content-image.php:8 content-image.php:37
+#: content-link.php:20 content-link.php:49 content-quote.php:8
+#: content-quote.php:37 content-standard.php:8 content-standard.php:37
+#: content-status.php:8 content-status.php:38 image.php:44
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanente link naar %s"
+
+#: content-aside.php:10 content-gallery.php:10 content-image.php:10
+#: content-link.php:23 content-quote.php:10 content-standard.php:10
+#: content-status.php:11 image.php:23 page.php:19 single-project.php:17
+msgid "Continue Reading &rarr;"
+msgstr "Lees verder &rarr;"
+
+#: content-aside.php:16 content-gallery.php:16 content-image.php:16
+#: content-link.php:29 content-quote.php:16 content-standard.php:16
+#: content-status.php:17 single-project.php:23
+msgid "About"
+msgstr "Over"
+
+#: content-aside.php:22 content-gallery.php:22 content-image.php:22
+#: content-link.php:35 content-quote.php:22 content-standard.php:22
+#: content-status.php:23 image.php:24 page.php:20 single-project.php:29
+msgid "Pages:"
+msgstr "Paginas:"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "No Response &darr;"
+msgstr "Geen reactie &darr;"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "One Response &darr;"
+msgstr "1 reactie &darr;"
+
+#: content-aside.php:31 content-gallery.php:31 content-image.php:31
+#: content-link.php:43 content-quote.php:31 content-standard.php:31
+#: content-status.php:32 image.php:38 page.php:66 single-project.php:38
+msgid "% Responses &darr;"
+msgstr "% reacties &darr;"
+
+#: content-aside.php:35 content-gallery.php:35 content-image.php:35
+#: content-link.php:47 content-quote.php:35 content-standard.php:35
+#: content-status.php:36 image.php:42
+msgid "TAGS:"
+msgstr "Tags:"
+
+#: content-aside.php:36 content-gallery.php:36 content-image.php:36
+#: content-link.php:48 content-quote.php:36 content-standard.php:36
+#: content-status.php:37 image.php:43
+#, php-format
+msgid "FILED UNDER: %s"
+msgstr "Staat onder: %s"
+
+#: content-aside.php:37 content-gallery.php:37 content-image.php:37
+#: content-link.php:49 content-quote.php:37 content-standard.php:37
+#: content-status.php:38 image.php:44
+msgid "Permalink"
+msgstr "Permalink"
+
+#: content-aside.php:40 content-gallery.php:40 content-image.php:40
+#: content-link.php:51 content-quote.php:40 content-standard.php:40
+#: content-status.php:40 page.php:71 single-project.php:47
+msgid "Edit"
+msgstr "Bewerken"
+
+#: footer.php:22
+msgid "powered by"
+msgstr "mogelijk gemaakt door"
+
+#: footer.php:22
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+#: footer.php:23
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:23
+msgid "Theme by"
+msgstr "Thema door"
+
+#: footer.php:23
+msgid "http://danielatwork.com"
+msgstr "http://danielatwork.com"
+
+#: footer.php:24
+msgid "Daniel Zhao"
+msgstr "Daniel Zhao"
+
+#: footer.php:27
+msgid "Back to Top"
+msgstr "Scroll naar boven"
+
+#: functions.php:26
+msgid "Primary Navigation"
+msgstr "Primaire navigatie"
+
+#: home.php:16
+msgid "Hello World!"
+msgstr "Hallo wereld!"
+
+#: home.php:18
+msgid "A Minimal, Responsive Portfolio Theme"
+msgstr "Een minimaal, responsive portfolio thema"
+
+#: home.php:19
+msgid ""
+"You can edit this section from home.php in the Edit Panel. Happy Blogging! "
+msgstr ""
+"Je kunt deze sectie bewerken van home.php via het Edit paneel. Geniet van "
+"het bloggen!"
+
+#: home.php:22
+msgid "Featured Widgets Area"
+msgstr "Uitgelichte widgets"
+
+#: image.php:18
+msgid "&larr; Return to"
+msgstr "&larr; Terug naar"
+
+#: options.php:34
+#, fuzzy
+msgid "Page Hierarchy"
+msgstr "Pagina hierarchie"
+
+#: options.php:35
+msgid "Add Child Page links to Pages"
+msgstr ""
+
+#: options.php:43
+#, fuzzy
+msgid "Featured Image"
+msgstr "Uitgelicht 1"
+
+#: options.php:44
+msgid "Replace Landing Page Featured Image Bavarian Forest"
+msgstr ""
+
+#: options.php:51
+#, fuzzy
+msgid "Activate favicon"
+msgstr "Gebruik favicon"
+
+#: options.php:52
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+
+#: options.php:60
+msgid "Upload favicon"
+msgstr ""
+
+#: options.php:61
+msgid "Upload favicon for your site"
+msgstr ""
+
+#: page.php:51
+msgid "Page Hierarchy:"
+msgstr "Pagina hierarchie"
+
+#: search.php:14
+msgid "We found"
+msgstr "Gevonden"
+
+#: search.php:19
+msgid " &#8211; "
+msgstr " &#8211; "
+
+#: search.php:21
+msgid "articles for "
+msgstr "artikelen voor"
+
+#: search.php:22
+msgid "<span class=\"post-search-terms\">"
+msgstr "<span class=\"post-search-terms\">"
+
+#: search.php:24
+msgid "</span><!-- end of .post-search-terms -->"
+msgstr "</span><!-- einde van .post-search-terms -->"
+
+#: searchform.php:2
+msgid "search here &hellip;"
+msgstr "zoeken &hellip;"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Zoeken"
+
+#: sidebar-home.php:20
+msgid "featured one"
+msgstr "uitgelicht 1"
+
+#: sidebar-home.php:21
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"One area."
+msgstr ""
+"Vervang de tekst hier in sidebar-home.php, of voeg widgets toe via "
+"'Uitgelicht 1'."
+
+#: sidebar-home.php:38
+msgid "featured two"
+msgstr "uitgelicht 2"
+
+#: sidebar-home.php:39
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"Two area."
+msgstr ""
+"Vervang de tekst hier in sidebar-home.php, of voeg widgets toe via "
+"'Uitgelicht 2'."
+
+#: sidebar-home.php:54
+msgid "featured three"
+msgstr "uitgelicht 3"
+
+#: sidebar-home.php:55
+msgid ""
+"Replace the text here in the sidebar-home.php, or add widgets to Featured "
+"Three area."
+msgstr ""
+"Vervang de tekst hier in sidebar-home.php, of voeg widgets toe via "
+"'Uitgelicht 3'."
+
+#: single-project.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> previous project"
+msgstr "<span class=\"meta-nav\">&larr;</span> vorig project"
+
+#: single-project.php:54
+msgid "next project <span class=\"meta-nav\">&rarr;</span>"
+msgstr "volgende project <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> previous post"
+msgstr "<span class=\"meta-nav\">&larr;</span> vorige post"
+
+#: single.php:24
+msgid "next post <span class=\"meta-nav\">&rarr;</span>"
+msgstr "volgende post <span class=\"meta-nav\">&rarr;</span>"
+
+#: taxonomy-project_type.php:14
+msgid "Project Type:"
+msgstr ""
+
+#: taxonomy-skills.php:14
+msgid "Project Skills:"
+msgstr ""
+
+#: includes/scripts.php:64
+msgid "Projects"
+msgstr "Projecten"
+
+#: includes/scripts.php:65
+msgid "Project"
+msgstr "Project"
+
+#: includes/scripts.php:94 includes/scripts.php:95
+msgid "Project Type"
+msgstr ""
+
+#: includes/scripts.php:96
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/scripts.php:97
+msgid "All Project Types"
+msgstr ""
+
+#: includes/scripts.php:98
+msgid "Parent Project Type"
+msgstr ""
+
+#: includes/scripts.php:99
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/scripts.php:100
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/scripts.php:101
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/scripts.php:102
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/scripts.php:103
+msgid "New Project Type"
+msgstr ""
+
+#: includes/scripts.php:117
+msgid "Skills"
+msgstr ""
+
+#: includes/scripts.php:118
+msgid "Skill"
+msgstr ""
+
+#: includes/scripts.php:119
+msgid "Search Skills"
+msgstr ""
+
+#: includes/scripts.php:120
+msgid "All Skills"
+msgstr ""
+
+#: includes/scripts.php:121
+msgid "Parent Skill"
+msgstr ""
+
+#: includes/scripts.php:122
+msgid "Parent Skill:"
+msgstr ""
+
+#: includes/scripts.php:123
+msgid "Edit Skill"
+msgstr ""
+
+#: includes/scripts.php:124
+msgid "Update Skill"
+msgstr ""
+
+#: includes/scripts.php:125
+msgid "Add New Skill"
+msgstr ""
+
+#: includes/scripts.php:126
+msgid "New Skill Name"
+msgstr ""
+
+#: includes/scripts.php:154
+msgid "Untitled"
+msgstr "Geen titel"
+
+#: includes/scripts.php:182
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/template-tags.php:5
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s by %3$s"
+msgstr "<span class=\"%1$s\">Geplaatst op</span> %2$s door %3$s"
+
+#: includes/widgets.php:6
+msgid "Primary Sidebar"
+msgstr "Primaire sidebar"
+
+#: includes/widgets.php:14
+msgid "Footer One"
+msgstr "Footer 1"
+
+#: includes/widgets.php:22
+msgid "Footer Two"
+msgstr "Footer 2"
+
+#: includes/widgets.php:30
+msgid "Footer Three"
+msgstr "Footer 3"
+
+#: includes/widgets.php:38
+msgid "Featured One"
+msgstr "Uitgelicht 1"
+
+#: includes/widgets.php:46
+msgid "Featured Two"
+msgstr "Uitgelicht 2"
+
+#: includes/widgets.php:54
+msgid "Featured Three"
+msgstr "Uitgelicht 3"
+
+#: includes/widgets.php:70
+msgid "Use this widget to add a vCard"
+msgstr "Gebruik deze widget en voeg toe aan vCard"
+
+#: includes/widgets.php:71
+msgid "pilotfish: vCard"
+msgstr "pilotfish: vCard"
+
+#: includes/widgets.php:98
+msgid "vCard"
+msgstr "vCard"
+
+#: includes/widgets.php:164
+msgid "Title (optional):"
+msgstr "Titel (optioneel):"
+
+#: includes/widgets.php:168
+msgid "Street Address:"
+msgstr "Adres:"
+
+#: includes/widgets.php:172
+msgid "City/Locality:"
+msgstr "Plaats:"
+
+#: includes/widgets.php:176
+msgid "State/Region:"
+msgstr "Provincie:"
+
+#: includes/widgets.php:180
+msgid "Zipcode/Postal Code:"
+msgstr "Postcode:"
+
+#: includes/widgets.php:184
+msgid "Telephone:"
+msgstr "Telefoon:"
+
+#: includes/widgets.php:188
+msgid "Email:"
+msgstr "E-mail:"
+
+#: includes/options/includes/class-options-framework-admin.php:85
+#: includes/options/includes/class-options-framework-admin.php:86
+#: includes/options/includes/class-options-framework-admin.php:307
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: includes/options/includes/class-options-framework-admin.php:174
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/options/includes/class-options-framework-admin.php:205
+msgid "Default options restored."
+msgstr ""
+
+#: includes/options/includes/class-options-framework-admin.php:259
+#, fuzzy
+msgid "Options saved."
+msgstr "Opties opgeslagen"
+
+#: includes/options/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:66
+#: includes/options/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:68
+#: includes/options/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/options/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:241
+#, fuzzy
+msgid "No Repeat"
+msgstr "Geen reactie op"
+
+#: includes/options/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: includes/options/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""
+
+#~ msgid "Google Analytics"
+#~ msgstr "Google Analytics"
+
+#~ msgid "Add Google Analytics to footer"
+#~ msgstr "Voeg Google Analytics toe in footer"
+
+#~ msgid "Google Analytics Tracking Code"
+#~ msgstr "Google Analytics Tracking Code"
+
+#~ msgid " Theme Options"
+#~ msgstr " Thema opties"
+
+#~ msgid "UA-XXXXX-X"
+#~ msgstr "UA-XXXXX-X"
+
+#~ msgid "Save Options"
+#~ msgstr "Opties opslaan"
+
+#~ msgid ""
+#~ "<p>Thank you for downloading Pilot Fish (^^) For more information on "
+#~ "customizing the theme, please go to <a href=\"http://wordpress."
+#~ "danielatwork.com/pilotfish/faq/\" target=\"_blank\">http://wordpress."
+#~ "danielatwork.com/pilotfish/faq/</a></p>\n"
+#~ "\t\t\t\t\t\t\t<p>Follow Danni on twitter <a href=\"https://twitter.com/"
+#~ "danni1990\" target=\"_blank\">@danni1990</a></p>"
+#~ msgstr ""
+#~ "<p>Bedankt voor het downloaden van Pilot Fish (^^) Voor meer informatie "
+#~ "over het aanpassen van dit thema, bezoek <a href=\"http://wordpress."
+#~ "danielatwork.com/pilotfish/faq/\" target=\"_blank\">http://wordpress."
+#~ "danielatwork.com/pilotfish/faq/</a></p>\n"
+#~ "\t\t\t\t\t\t\t<p>Volg Danni op Twitter <a href=\"https://twitter.com/"
+#~ "danni1990\" target=\"_blank\">@danni1990</a></p>"
+
+#~ msgid ""
+#~ "a favicon should be 16 x 16px and named \"favicon.ico\"<br />Please "
+#~ "upload the favicon to the main directory of the theme through FTP."
+#~ msgstr ""
+#~ "een favicon hoort 16x16 pixels te zijn genaamd \"favicon.ico\"<br /"
+#~ ">Upload het favicon in de thema folder via FTP."
