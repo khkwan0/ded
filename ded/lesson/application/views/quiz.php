@@ -64,8 +64,12 @@
                         if (wrong>0) {
                             console.log('fail');
                         } else {
-                            console.log('pass');
-                            $('#next_go').show();
+                            if (is_final) {
+                                window.location = '/lesson/congrats';
+                            } else {
+                                console.log('pass');
+                                $('#next_go').show();
+                            }
                         }
                     },'json'
                 );
